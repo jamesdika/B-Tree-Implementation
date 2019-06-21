@@ -1,4 +1,4 @@
-# B-Tree-Implementation
+# B+-Tree-Implementation
 This is my implementation of a B+ tree
 B+ trees are a data structure in which records can only be stored at leaf nodes. 
 The leaf nodes of a B+ tree are stored together 
